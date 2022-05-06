@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Hyc的踩坑之旅 Blog</title>
+        <link>https://hyc3z.github.io/blog</link>
+        <description>Hyc的踩坑之旅 Blog</description>
+        <lastBuildDate>Fri, 06 May 2022 05:48:22 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021/01/05]]></title>
+            <link>https://hyc3z.github.io/blog/2021/01/05</link>
+            <guid>2021/01/05</guid>
+            <pubDate>Fri, 06 May 2022 05:48:22 GMT</pubDate>
+            <description><![CDATA[昨天回家都11点了，实在太累了。今天补上哈。]]></description>
+            <content:encoded><![CDATA[<p>昨天回家都11点了，实在太累了。今天补上哈。
+毕竟，昨天是本公子第一天去某知名大厂实习。
+第一天，我就被里面架势惊呆了。9:30到的时候，里面排满了人，都是新入职的。足足有一百多号人吧。我当时真的吓到了，不过后来了解到公司几万人，也就没啥了。事实上，分配到我们部门的新人，也就我一个。
+跟旁边的旁友互换了wx，他已经研一了。公司还是挺慷慨的哈，选了i7的苹果笔记本，直接给发16寸的mbp，一看资产价格1w9……小弟第一次用水果电脑，学到了第一个快捷键就是Ctrl+Cmd+Q，锁屏。无论什么时候，只要离开工位就得锁屏。而且，不能带自己的电脑。
+第一天，主要就是申请显示器、鼠标之类的，跟mentor one on one聊了一个小时，感觉还是怎么说呢……
+累，是肯定的。你无法想象，半夜11点还骑着共享单车，在莲花路上骑行的感觉。甚至都感受不到孤独，只是一种，茫然。回家累的倒头就睡。
+今天9点就离岗了，回家早了点，10pm。还是累呀！不过好歹能写点日记了。今天学了好多课程，有讲工程师文化的，有用户隐私的，业务安全的，前端性能的。很多还需要学习额外的知识。
+早饭没体验到。午饭，还好把。青菜，粉蒸肉，杏鲍菇，炸虾仁还有一碗奶茶。自助的，不敢多吃。下午茶是甘蔗+火龙果，也不知道哪个人才想的出拼盘放甘蔗这种阴间水果的。昨天下午茶是酸奶+香蕉+橙子。还不错哈。晚饭也不敢多吃，搞了点素材，加了两片酱鸭。其实怎么说呢，伙食水平可以说比学校更好一些吧。（参考某食堂2楼）。还是满足的。就是早点下班就好了。晚上9点办公楼还是哒哒哒键盘的声音，我就有种灵魂出窍的感觉。真的不敢相信，离开大楼，一抬头，灯火通明，全是低着头在工位上。跟高三晚自习似的。
+差不多每个小时得起来活动下走走，真的担心自己身体，本来就体弱，害隔着折腾自己，玩996，真的有点遭罪……我宁愿少拿一半的工资，能不能955？
+还好，明天不用去，只需要去学校。可以歇一歇了。真的，上学从未有这种如释重负的感觉。我现在的感觉，就是佩服，佩服那些呆了3年4年的。真不知道他们怎么熬过这段时间的。</p>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2021/12/27]]></title>
+            <link>https://hyc3z.github.io/blog/2021/12/27</link>
+            <guid>2021/12/27</guid>
+            <pubDate>Fri, 06 May 2022 05:48:22 GMT</pubDate>
+            <description><![CDATA[2021/12/27]]></description>
+            <content:encoded><![CDATA[<p>2021/12/27</p><p>​	今天中午去了洋泾滨江，鬼鬼，那边的老厂房是真的惊艳啊。</p><p>​	真的爱了。</p><p>​	<img alt="IMG_20211227_122650" src="/assets/images/IMG_20211227_122650-7d94b4cb3306389e6699b9dd81ed8272.jpg" width="4624" height="3472"></p><p><img alt="IMG_20211227_122655" src="/assets/images/IMG_20211227_122655-bb53896e5925a9c30a196b69b8fc6637.jpg" width="4624" height="3472"></p><p><img alt="IMG_20211227_123006" src="/assets/images/IMG_20211227_123006-fd0ee45986006f80232245df36467c80.jpg" width="4624" height="3472"></p><p><img alt="IMG_20211227_123857" src="/assets/images/IMG_20211227_123857-c13d40ecca6f7c87798273cc7015444a.jpg" width="4624" height="3472"></p><p><img alt="IMG_20211227_123911" src="/assets/images/IMG_20211227_123911-ead65cb0d4dbfe226b67fc49606179ea.jpg" width="4624" height="3472"></p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
