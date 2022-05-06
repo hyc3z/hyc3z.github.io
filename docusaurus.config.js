@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Tagline',
+  title: 'Hyc的踩坑之旅',
+  tagline: '',
   url: 'https://hyc3z.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -43,7 +43,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Hyc3z',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -53,7 +53,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Notes',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
