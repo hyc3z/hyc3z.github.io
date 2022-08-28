@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Hyc的踩坑之旅 Blog</title>
+        <title>Hyc3z's blog Blog</title>
         <link>https://hyc3z.github.io/blog</link>
-        <description>Hyc的踩坑之旅 Blog</description>
+        <description>Hyc3z's blog Blog</description>
         <lastBuildDate>Fri, 06 May 2022 05:48:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
