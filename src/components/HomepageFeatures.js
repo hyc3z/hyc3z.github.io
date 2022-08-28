@@ -4,45 +4,38 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
     description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      </>
+      <img
+        src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=hyc3z&style=--header-bg-color:%23000;--border-radius:10px"
+      />
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
+      <img
+        src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=hyc3z"
+      />
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
+      <img
+        src="https://github-profile-trophy.vercel.app/?username=hyc3z&column=4&theme=nord&margin-w=15&margin-h=15"
+      />
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ Svg, title, description }) {
   return (
     <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} alt={title} />
-      </div>
+      {Svg &&
+        <div className="text--center">
+          <Svg className={styles.featureSvg} alt={title} />
+        </div>
+      }
       <div className="text--center padding-horiz--md">
-        <h3>{title}</h3>
+        {title && <h3>{title}</h3>}
         <p>{description}</p>
       </div>
     </div>
