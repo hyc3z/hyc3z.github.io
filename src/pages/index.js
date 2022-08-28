@@ -12,7 +12,7 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <p className="hero__subtitle">
-          <img
+          <img className="hero__img" height="200px"
             src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=hyc3z&style=--header-bg-color:%23000;--border-radius:10px"
           />
         </p>
