@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Hyc3z's blog Blog</title>
-        <link>https://hyc3z.github.io/blog</link>
+        <link>https://hyc3z.github.io/docs/intro/blog</link>
         <description>Hyc3z's blog Blog</description>
         <lastBuildDate>Fri, 06 May 2022 05:48:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[2021/01/05]]></title>
-            <link>https://hyc3z.github.io/blog/2021/01/05</link>
+            <link>https://hyc3z.github.io/docs/intro/blog/2021/01/05</link>
             <guid>2021/01/05</guid>
             <pubDate>Fri, 06 May 2022 05:48:22 GMT</pubDate>
             <description><![CDATA[昨天回家都11点了，实在太累了。今天补上哈。]]></description>
@@ -26,11 +26,11 @@
         </item>
         <item>
             <title><![CDATA[2021/12/27]]></title>
-            <link>https://hyc3z.github.io/blog/2021/12/27</link>
+            <link>https://hyc3z.github.io/docs/intro/blog/2021/12/27</link>
             <guid>2021/12/27</guid>
             <pubDate>Fri, 06 May 2022 05:48:22 GMT</pubDate>
             <description><![CDATA[2021/12/27]]></description>
-            <content:encoded><![CDATA[<p>2021/12/27</p><p>​	今天中午去了洋泾滨江，鬼鬼，那边的老厂房是真的惊艳啊。</p><p>​	真的爱了。</p><p>​	<img alt="IMG_20211227_122650" src="/assets/images/IMG_20211227_122650-7d94b4cb3306389e6699b9dd81ed8272.jpg" width="4624" height="3472"></p><p><img alt="IMG_20211227_122655" src="/assets/images/IMG_20211227_122655-bb53896e5925a9c30a196b69b8fc6637.jpg" width="4624" height="3472"></p><p><img alt="IMG_20211227_123006" src="/assets/images/IMG_20211227_123006-fd0ee45986006f80232245df36467c80.jpg" width="4624" height="3472"></p><p><img alt="IMG_20211227_123857" src="/assets/images/IMG_20211227_123857-c13d40ecca6f7c87798273cc7015444a.jpg" width="4624" height="3472"></p><p><img alt="IMG_20211227_123911" src="/assets/images/IMG_20211227_123911-ead65cb0d4dbfe226b67fc49606179ea.jpg" width="4624" height="3472"></p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>2021/12/27</p><p>​	今天中午去了洋泾滨江，鬼鬼，那边的老厂房是真的惊艳啊。</p><p>​	真的爱了。</p><p>​	<img alt="IMG_20211227_122650" src="/docs/intro/assets/images/IMG_20211227_122650-7d94b4cb3306389e6699b9dd81ed8272.jpg" width="4624" height="3472"></p><p><img alt="IMG_20211227_122655" src="/docs/intro/assets/images/IMG_20211227_122655-bb53896e5925a9c30a196b69b8fc6637.jpg" width="4624" height="3472"></p><p><img alt="IMG_20211227_123006" src="/docs/intro/assets/images/IMG_20211227_123006-fd0ee45986006f80232245df36467c80.jpg" width="4624" height="3472"></p><p><img alt="IMG_20211227_123857" src="/docs/intro/assets/images/IMG_20211227_123857-c13d40ecca6f7c87798273cc7015444a.jpg" width="4624" height="3472"></p><p><img alt="IMG_20211227_123911" src="/docs/intro/assets/images/IMG_20211227_123911-ead65cb0d4dbfe226b67fc49606179ea.jpg" width="4624" height="3472"></p>]]></content:encoded>
         </item>
     </channel>
 </rss>
