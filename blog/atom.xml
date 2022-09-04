@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://hyc3z.github.io/docs/intro/blog</id>
+    <id>https://hyc3z.github.io/blog</id>
     <title>Hyc3z's blog Blog</title>
     <updated>2022-05-06T05:48:22.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://hyc3z.github.io/docs/intro/blog"/>
+    <link rel="alternate" href="https://hyc3z.github.io/blog"/>
     <subtitle>Hyc3z's blog Blog</subtitle>
-    <icon>https://hyc3z.github.io/docs/intro/img/favicon.ico</icon>
+    <icon>https://hyc3z.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[2021/01/05]]></title>
         <id>2021/01/05</id>
-        <link href="https://hyc3z.github.io/docs/intro/blog/2021/01/05"/>
+        <link href="https://hyc3z.github.io/blog/2021/01/05"/>
         <updated>2022-05-06T05:48:22.345Z</updated>
         <summary type="html"><![CDATA[昨天回家都11点了，实在太累了。今天补上哈。]]></summary>
         <content type="html"><![CDATA[<p>昨天回家都11点了，实在太累了。今天补上哈。
@@ -31,10 +31,10 @@
     <entry>
         <title type="html"><![CDATA[2021/12/27]]></title>
         <id>2021/12/27</id>
-        <link href="https://hyc3z.github.io/docs/intro/blog/2021/12/27"/>
+        <link href="https://hyc3z.github.io/blog/2021/12/27"/>
         <updated>2022-05-06T05:48:22.345Z</updated>
         <summary type="html"><![CDATA[2021/12/27]]></summary>
-        <content type="html"><![CDATA[<p>2021/12/27</p><p>​	今天中午去了洋泾滨江，鬼鬼，那边的老厂房是真的惊艳啊。</p><p>​	真的爱了。</p><p>​	<img alt="IMG_20211227_122650" src="/docs/intro/assets/images/IMG_20211227_122650-7d94b4cb3306389e6699b9dd81ed8272.jpg" width="4624" height="3472"></p><p><img alt="IMG_20211227_122655" src="/docs/intro/assets/images/IMG_20211227_122655-bb53896e5925a9c30a196b69b8fc6637.jpg" width="4624" height="3472"></p><p><img alt="IMG_20211227_123006" src="/docs/intro/assets/images/IMG_20211227_123006-fd0ee45986006f80232245df36467c80.jpg" width="4624" height="3472"></p><p><img alt="IMG_20211227_123857" src="/docs/intro/assets/images/IMG_20211227_123857-c13d40ecca6f7c87798273cc7015444a.jpg" width="4624" height="3472"></p><p><img alt="IMG_20211227_123911" src="/docs/intro/assets/images/IMG_20211227_123911-ead65cb0d4dbfe226b67fc49606179ea.jpg" width="4624" height="3472"></p>]]></content>
+        <content type="html"><![CDATA[<p>2021/12/27</p><p>​	今天中午去了洋泾滨江，鬼鬼，那边的老厂房是真的惊艳啊。</p><p>​	真的爱了。</p><p>​	<img alt="IMG_20211227_122650" src="/assets/images/IMG_20211227_122650-7d94b4cb3306389e6699b9dd81ed8272.jpg" width="4624" height="3472"></p><p><img alt="IMG_20211227_122655" src="/assets/images/IMG_20211227_122655-bb53896e5925a9c30a196b69b8fc6637.jpg" width="4624" height="3472"></p><p><img alt="IMG_20211227_123006" src="/assets/images/IMG_20211227_123006-fd0ee45986006f80232245df36467c80.jpg" width="4624" height="3472"></p><p><img alt="IMG_20211227_123857" src="/assets/images/IMG_20211227_123857-c13d40ecca6f7c87798273cc7015444a.jpg" width="4624" height="3472"></p><p><img alt="IMG_20211227_123911" src="/assets/images/IMG_20211227_123911-ead65cb0d4dbfe226b67fc49606179ea.jpg" width="4624" height="3472"></p>]]></content>
         <author>
             <name>Hu Yichong</name>
             <uri>https://github.com/hyc3z</uri>
