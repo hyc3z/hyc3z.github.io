@@ -15,7 +15,10 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'hyc3z', // Usually your GitHub org/user name.
   projectName: 'hyc3z.github.io', // Usually your repo name.
-
+  staticDirectories: ['static'],
+  scripts: [
+    '/js/midiplayer.js',
+  ],
   presets: [
     [
       'classic',
@@ -72,3 +75,4 @@ const config = {
 };
 
 module.exports = config;
+

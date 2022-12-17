@@ -5,6 +5,11 @@
 /build
 /docs
 
+/static
+
+package-lock.json
+yarn.lock
+
 # Generated files
 .docusaurus
 .cache-loader
@@ -19,3 +24,5 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+**/*.md
