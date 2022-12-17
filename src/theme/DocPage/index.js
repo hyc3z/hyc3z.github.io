@@ -33,6 +33,7 @@ function DocPageMetadata(props) {
     </>
   );
 }
+
 export default function DocPage(props) {
   const { versionMetadata } = props;
   const currentDocRouteMetadata = useDocRouteMetadata(props);
@@ -58,7 +59,7 @@ export default function DocPage(props) {
     s.setAttribute("crossorigin", "anonymous")
     s.async = true;
     commentElement.current.appendChild(s);
-  }, [])
+  })
   return (
     <>
       <DocPageMetadata {...props} />
