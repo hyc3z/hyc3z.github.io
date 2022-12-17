@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhyc_3z_website=self.webpackChunkhyc_3z_website||[]).push([[4195],{59335:function(e,t,n){n.r(t),n.d(t,{default:function(){return u}});var c=n(67294);n(93285),n(39960),n(52263);var r=n(16550);function u(){return c.createElement(r.l_,{to:"/docs/intro"})}}}]);
