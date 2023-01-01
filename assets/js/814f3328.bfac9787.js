@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhyc_3z_website=self.webpackChunkhyc_3z_website||[]).push([[2535],{45641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"2021/01/05","permalink":"/blog/2021/01/05"},{"title":"2021/12/27","permalink":"/blog/2021/12/27"}]}')}}]);
