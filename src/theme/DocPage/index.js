@@ -41,25 +41,6 @@ export default function DocPage(props) {
     return <NotFound />;
   }
   const { docElement, sidebarName, sidebarItems } = currentDocRouteMetadata;
-  const commentElement = useRef(null)
-  useEffect(() => {
-    let s = document.createElement("script");
-    s.src = "https://giscus.app/client.js"
-    s.setAttribute("data-repo", "hyc3z/hyc3z")
-    s.setAttribute("data-repo-id", "MDEwOlJlcG9zaXRvcnkzMjU3NDc2Mjc=")
-    s.setAttribute("data-category", "Announcements")
-    s.setAttribute("data-category-id", "DIC_kwDOE2qDq84CTH9a")
-    s.setAttribute("data-mapping", "title")
-    s.setAttribute("data-strict", "0")
-    s.setAttribute("data-reactions-enabled", "1")
-    s.setAttribute("data-emit-metadata", "0")
-    s.setAttribute("data-input-position", "bottom")
-    s.setAttribute("data-theme", "preferred_color_scheme")
-    s.setAttribute("data-lang", "zh-CN")
-    s.setAttribute("crossorigin", "anonymous")
-    s.async = true;
-    commentElement.current.appendChild(s);
-  })
   return (
     <>
       <DocPageMetadata {...props} />
@@ -74,7 +55,6 @@ export default function DocPage(props) {
           <DocsSidebarProvider name={sidebarName} items={sidebarItems}>
             <DocPageLayout>
               {docElement}
-              <div style={{ marginTop: '20px' }} ref={commentElement}></div>
             </DocPageLayout>
           </DocsSidebarProvider>
         </DocsVersionProvider>
